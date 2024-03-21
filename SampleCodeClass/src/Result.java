@@ -8,8 +8,6 @@ public class Result {
     int FM;
     int HCI;
 
-
-
 void mkDASHABI()
 
 
@@ -94,7 +92,14 @@ void mkDASHABI()
         System.out.println("Testing");
     }
 
+<<<<<<< Updated upstream
 //LFJ 123
+=======
+void angel(){
+System.out.println("Ello Bello");
+}
+
+>>>>>>> Stashed changes
   
     void LawBing(){
         System.out.println("See u guys in Starlight Fantasy this Saturday WRYYYYY!!!");
